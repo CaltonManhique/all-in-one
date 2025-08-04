@@ -1,2 +1,2 @@
 # all-in-one
-The all-in-one application allows small businesses to set up pages to showcase their services at a low cost. It provides access to contact forms and service bookings.
+All-in-One is a web application built using PHP that enables small businesses to create pages to showcase their services at a low cost. It provides access to contact forms and service booking features.
